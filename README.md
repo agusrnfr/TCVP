@@ -7,4 +7,6 @@ Ejercicios de "Teoría de la Computación y Verificación de Programas"
 ## Prácticas
 * [**Práctica 1**](https://github.com/agusrnfr/TCVP/blob/main/Practicas/Practica%201/Practica-1.pdf)
 * [**Práctica 2**](https://github.com/agusrnfr/TCVP/blob/main/Practicas/Practica%202/Practica-2.pdf)
-
+* [**Práctica 3**](https://github.com/agusrnfr/TCVP/blob/main/Practicas/Practica%203/Practica-3.pdf)
+* [**Práctica 4**](https://github.com/agusrnfr/TCVP/blob/main/Practicas/Practica%204/Practica-4.pdf)
+* [**Práctica 5**](https://github.com/agusrnfr/TCVP/blob/main/Practicas/Practica%205/Practica-5.pdf)
